@@ -20,7 +20,7 @@
 
 ## Source               
 
-- *[Marlin officail](https://github.com/MarlinFirmware/Marlin)* Marlin offical firmware release main page
+- *[Marlin official](https://github.com/MarlinFirmware/Marlin)* Marlin offical firmware release main page
 - *[Marlin Gcode](https://marlinfw.org/meta/gcode/)* Marlin offical gcode introduction
 
 ## Feature
